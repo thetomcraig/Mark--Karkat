@@ -1,11 +1,8 @@
 :Mark	mark.txt	/*:Mark*
 :MarkClear	mark.txt	/*:MarkClear*
 :MarkLoad	mark.txt	/*:MarkLoad*
-:MarkName	mark.txt	/*:MarkName*
 :MarkPalette	mark.txt	/*:MarkPalette*
 :MarkSave	mark.txt	/*:MarkSave*
-:MarkYankDefinitions	mark.txt	/*:MarkYankDefinitions*
-:MarkYankDefinitionsOneLiner	mark.txt	/*:MarkYankDefinitionsOneLiner*
 :Marks	mark.txt	/*:Marks*
 <C-k1>	mark.txt	/*<C-k1>*
 <Leader>#	mark.txt	/*<Leader>#*
@@ -22,14 +19,11 @@ g:mwDefaultHighlightingPalette	mark.txt	/*g:mwDefaultHighlightingPalette*
 g:mwDirectGroupJumpMappingNum	mark.txt	/*g:mwDirectGroupJumpMappingNum*
 g:mwHistAdd	mark.txt	/*g:mwHistAdd*
 g:mwIgnoreCase	mark.txt	/*g:mwIgnoreCase*
-mark-cascaded-group-searching	mark.txt	/*mark-cascaded-group-searching*
 mark-colors	mark.txt	/*mark-colors*
 mark-colors-redefine	mark.txt	/*mark-colors-redefine*
 mark-configuration	mark.txt	/*mark-configuration*
-mark-contribute	mark.txt	/*mark-contribute*
 mark-dependencies	mark.txt	/*mark-dependencies*
 mark-description	mark.txt	/*mark-description*
-mark-group-cycle	mark.txt	/*mark-group-cycle*
 mark-highlight-colors	mark.txt	/*mark-highlight-colors*
 mark-highlighting	mark.txt	/*mark-highlighting*
 mark-history	mark.txt	/*mark-history*
